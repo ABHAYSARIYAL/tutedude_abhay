@@ -1,0 +1,22 @@
+4 main types of databases
+1. relational/sql databases database >tables> rows > coulmn
+[mysql, postgres, oracle, sql server, ]
+2.nosql/document databases database > collection > documents
+[mongodb, couchdb,]
+3.graph databases database > nodes > edges
+[neo4]
+4.key-value databases database > key > values
+[redis, riak]
+
+5. blob storage database > blob
+[google drive, amazon s3]
+
+1. a bunch of tables.
+
+
+2.non structured data. a bunch of json files.
+it store data in form of key value pair
+
+3. a json file have whole database.
+
+5. mixed structure of file > folder > file > folder called blob. used to store file liked things.
